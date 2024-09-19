@@ -1,0 +1,14 @@
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\bin\Debug\net8.0\E-Money.exe
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\bin\Debug\net8.0\E-Money.deps.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\bin\Debug\net8.0\E-Money.runtimeconfig.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\bin\Debug\net8.0\E-Money.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\bin\Debug\net8.0\E-Money.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.AssemblyInfoInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.AssemblyInfo.cs
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.csproj.CoreCompileInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\refint\E-Money.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\E-Money.genruntimeconfig.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\E-Money\obj\Debug\net8.0\ref\E-Money.dll

@@ -1,0 +1,14 @@
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\bin\Debug\net8.0\EMoney.exe
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\bin\Debug\net8.0\EMoney.deps.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\bin\Debug\net8.0\EMoney.runtimeconfig.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\bin\Debug\net8.0\EMoney.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\bin\Debug\net8.0\EMoney.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.AssemblyInfoInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.AssemblyInfo.cs
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.csproj.CoreCompileInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\refint\EMoney.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\EMoney.genruntimeconfig.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\EMoney\obj\Debug\net8.0\ref\EMoney.dll

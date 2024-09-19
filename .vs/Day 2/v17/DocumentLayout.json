@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|c:\\users\\miftrahul aziz\\source\\repos\\day 2\\emoney\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|solutionrelative:emoney\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6531744C-102D-409A-9294-B5A9F6704A2C}|E-Money\\E-Money.csproj|c:\\users\\miftrahul aziz\\source\\repos\\day 2\\e-money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6531744C-102D-409A-9294-B5A9F6704A2C}|E-Money\\E-Money.csproj|solutionrelative:e-money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|c:\\users\\miftrahul aziz\\source\\repos\\day 2\\emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|solutionrelative:emoney\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|c:\\users\\miftrahul aziz\\source\\repos\\day 2\\emoney\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|solutionrelative:emoney\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|c:\\users\\miftrahul aziz\\source\\repos\\day 2\\emoney\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B4C32-7B7C-48B6-A46C-A1A3A3AC1132}|EMoney\\EMoney.csproj|solutionrelative:emoney\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\Customer.cs",
+              "RelativeDocumentMoniker": "EMoney\\Customer.cs",
+              "ToolTip": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\Customer.cs",
+              "RelativeToolTip": "EMoney\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:48:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\Admin.cs",
+              "RelativeDocumentMoniker": "EMoney\\Admin.cs",
+              "ToolTip": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\Admin.cs",
+              "RelativeToolTip": "EMoney\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:47:54.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\User.cs",
+              "RelativeDocumentMoniker": "EMoney\\User.cs",
+              "ToolTip": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\User.cs",
+              "RelativeToolTip": "EMoney\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:46:31.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\Program.cs",
+              "RelativeDocumentMoniker": "EMoney\\Program.cs",
+              "ToolTip": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\EMoney\\Program.cs",
+              "RelativeToolTip": "EMoney\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:45:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\E-Money\\Program.cs",
+              "RelativeDocumentMoniker": "E-Money\\Program.cs",
+              "ToolTip": "C:\\Users\\Miftrahul Aziz\\source\\repos\\Day 2\\E-Money\\Program.cs",
+              "RelativeToolTip": "E-Money\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:35:09.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

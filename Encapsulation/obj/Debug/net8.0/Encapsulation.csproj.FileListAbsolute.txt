@@ -1,0 +1,14 @@
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

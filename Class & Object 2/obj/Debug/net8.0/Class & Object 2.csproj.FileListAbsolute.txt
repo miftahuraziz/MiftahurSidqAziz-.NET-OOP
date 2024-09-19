@@ -1,0 +1,14 @@
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\bin\Debug\net8.0\Class & Object 2.exe
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\bin\Debug\net8.0\Class & Object 2.deps.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\bin\Debug\net8.0\Class & Object 2.runtimeconfig.json
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\bin\Debug\net8.0\Class & Object 2.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\bin\Debug\net8.0\Class & Object 2.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.AssemblyInfoInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.AssemblyInfo.cs
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.csproj.CoreCompileInputs.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\refint\Class & Object 2.dll
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.pdb
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\Class & Object 2.genruntimeconfig.cache
+C:\Users\Miftrahul Aziz\source\repos\Day 2\Class & Object 2\obj\Debug\net8.0\ref\Class & Object 2.dll
